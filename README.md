@@ -63,7 +63,7 @@ Este app foi desenvolvido por **Danilo**, como parte de um seminário na faculda
 
 ## 📷 Logo
 
-![Logo Saúde+](assets/logo.png)
+![Logo Saúde+](/src/assets/logo.png)
 
 ## 📄 Licença
 
